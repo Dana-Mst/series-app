@@ -16,4 +16,4 @@ The design has been already made by the marketing team, the database is ready (t
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="45" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" height="45" />  
 
-![Series-App]()
+![Series-App](https://github.com/Dana-Mst/series-app/blob/main/most-rated.png)
